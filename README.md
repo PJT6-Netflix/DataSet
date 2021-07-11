@@ -189,16 +189,16 @@ https://www.kaggle.com/snehaanbhawal/netflix-tv-shows-and-movie-list
 
 https://www.kaggle.com/adityakadiwal/netflix-movies-and-tv-shows
 
-**제목** : 영화 / TV 쇼의 이름
-**유형** : 컨텐츠의 종류는
-**titlereleased** : 년 릴리스의
-**평가** : TV 부모 가이드 라인 평가
-**품질** : 제목의 비디오 품질
-**배우** : 영화 / TV 쇼의 캐스트
-**감독** : 감독 영화 / TV 쇼
-**category** : 장르 또는 카테고리
-**imdb** : 영화 / TV 쇼
-**런타임에** 대한 IMDb 등급 : 영화 / TV 쇼 **런타임 (** 분)
+**- 제목** : 영화 / TV 쇼의 이름
+**- 유형** : 컨텐츠의 종류는
+**- titlereleased** : 년 릴리스의
+**- 평가** : TV 부모 가이드 라인 평가
+**- 품질** : 제목의 비디오 품질
+**- 배우** : 영화 / TV 쇼의 캐스트
+**- 감독** : 감독 영화 / TV 쇼
+**- category** : 장르 또는 카테고리
+**- imdb** : 영화 / TV 쇼
+**- 런타임에** 대한 IMDb 등급 : 영화 / TV 쇼 **런타임 (** 분)
 
 
 
