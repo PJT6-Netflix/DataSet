@@ -47,21 +47,21 @@
 
 - 자신의 폴더 내 README는 자유롭게 작성하셔도 됩니다.
 
-### ⚡️ Pull Request
+### ⚡️  Commit message, Pull Request
 
-- Pull Request 제목은
+- Commit message, Pull Request 제목은
 
    
 
   ```
-  [이름] 날짜
+  [이름] 날짜_적고싶은내용
   ```
 
   로 해주세요!
 
-  - 7월 11일 화영 → `[화영] 2021.07.11`
+  - 7월 11일 화영 → `[화영]0711_독립변수와종속변수분석1`
 
-- 자신의 닉네임으로 된 브랜치를 딴 후 자신의 이름 폴더에 파일을 추가한 후 Pull Request를 보냅니다.
+- 자신의 닉네임으로 된 브랜치를 딴 후 자신의 이름 폴더에 파일을 추가한 후 commit 하고, Pull Request를 보냅니다.
 
 - Pull Request 양식에 따라 작성해주세요!
 
@@ -189,16 +189,16 @@ https://www.kaggle.com/snehaanbhawal/netflix-tv-shows-and-movie-list
 
 https://www.kaggle.com/adityakadiwal/netflix-movies-and-tv-shows
 
-**- 제목** : 영화 / TV 쇼의 이름
-**- 유형** : 컨텐츠의 종류는
-**- titlereleased** : 년 릴리스의
-**- 평가** : TV 부모 가이드 라인 평가
-**- 품질** : 제목의 비디오 품질
-**- 배우** : 영화 / TV 쇼의 캐스트
-**- 감독** : 감독 영화 / TV 쇼
-**- category** : 장르 또는 카테고리
-**- imdb** : 영화 / TV 쇼
-**- 런타임에** 대한 IMDb 등급 : 영화 / TV 쇼 **런타임 (** 분)
+- 제목 : 영화 / TV 쇼의 이름
+- 유형 : 컨텐츠의 종류는
+- titlereleased : 년 릴리스의
+- 평가 : TV 부모 가이드 라인 평가
+- 품질 : 제목의 비디오 품질
+- 배우 : 영화 / TV 쇼의 캐스트
+- 감독 : 감독 영화 / TV 쇼
+- category : 장르 또는 카테고리
+- imdb : 영화 / TV 쇼
+- 런타임에 대한 IMDb 등급 : 영화 / TV 쇼 런타임 (** 분)
 
 
 
