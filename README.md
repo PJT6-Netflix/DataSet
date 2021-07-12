@@ -105,9 +105,9 @@
 
 
 
-	H0 : 사용언어는 viewPoint에 영향이 없다.
+	H0 : 상영국가는 viewPoint에 영향이 없다.
 	
-	H1 : 사용언어은 viewPoint에 영향이 있다.
+	H1 : 상영국가 viewPoint에 영향이 있다.
 
 
 
