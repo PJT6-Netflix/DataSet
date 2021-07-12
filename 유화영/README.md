@@ -34,5 +34,5 @@ H1 : tv품질은 viewPoint에 영향이 있다.
 
 - 품질 데이터 join
 - `df['country']` 랑 `df['Country Availability']` value값 합치기 - > 분석 
+- 품질 데이터 전처리
 
- 
