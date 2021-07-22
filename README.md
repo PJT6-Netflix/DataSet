@@ -9,6 +9,14 @@
 |                             팀장                             |                             팀원                             |                             팀원                             |                             팀원                             |
 |           [채길호](https://github.com/chaerui7967)           |            [유화영](https://github.com/cherieuu)             |            [김영성](https://github.com/zerosysk)             |          [천상희](https://github.com/avantgarde-cy)          |
 
+## 🎖수상
+
+
+
+![image-20210722105918259](image/image-20210722105918259.png)
+
+
+
 
 
 ## 🔍 업무
@@ -80,7 +88,7 @@
 
 ----------------
 
-# PROJECT_Netflix (~ing 🚀)
+# PROJECT_Netflix
 
 
 
